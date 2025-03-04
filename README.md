@@ -64,6 +64,11 @@ A full-featured music player app with Firebase backend.
 - **Tech Stack:** React Native, Context API, state management, hooks, Firebase, Firestore, Firebase authentication (email/password), Google authentication, session management, secure encrypted storage, Expo AV (audio playback and management), stack and tab navigators, React Native elements, linear gradients, custom app icon and splash screen, custom fonts, hybrid, responsive design.
 - **Demo Video:** [Music Player Demo Video](https://drive.google.com/file/d/19SoCs0IHF-uEdXpDvxJt2ZiLilv96p7R/view?usp=drive_link)      
 
+### 📌 Chess Game (React Native)  
+A hobby project that I created using React Native. The game handles the following: piece movements, check detection and handling, checkmate detection, draw handling, 3-fold draw detection, stalemate detection, pawn promotion, and en-passant move.    
+- **Tech Stack:** React Native, TypeScript, React Native Gesture Handler, Reanimated API, Hooks, context API, and React Native elements.
+- **Demo Video:** [Chess Game Demo Video](https://drive.google.com/file/d/1hWLmrghBq8pkvyf6z0o1JI06UgLJzBXv/view?usp=drive_link)
+
 ### 📌 Drawing App (React Native)  
 A proof-of-concept (POC) drawing application.    
 - **Tech Stack:** React Native, Expo, Expo Router, TypeScript, Context API, React Native Canvas, React Native Web-view, and more.
