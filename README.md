@@ -12,7 +12,7 @@ I am a **Computer Science graduate** with over **3.5 years** of practical indust
 - **APIs & Backend:** API Development & Integration, GraphQL, Postman  
 - **Key Features:** Push Notifications (OneSignal, Firebase, Expo), Maps Integration, Payment Integration, SSL Pinning, Animations, Deep Linking, User Authentication & Authorization, Session Management, Security, Google and Apple Authentication, Third-Party Libraries  
 - **Performance & Optimization:** Testing, Automation, Sockets, Responsive UI, OTA Updates, GitHub Actions, FastLane  
-- **Cloud & DevOps:** Docker, Heroku, Google Cloud Platform, Digital Ocean  
+- **Cloud & DevOps:** Docker, Heroku, Google Cloud Platform, Digital Ocean, Vercel, Render  
 - **Tools & Platforms:** Git, Postman, Trello, Monday.com, Documentation, Technical Writing, Agile Methodologies  
 - **App Publishing:** Play Store & App Store Deployment  
 - **Misc:** Hybrid Applications (Android/iOS), Responsive Design  
