@@ -58,6 +58,7 @@ I was hired by a client on Upwork for this project. GeoTag is a React Native app
 GlobaLingo is a React Native language translator app featuring instant translations, auto language detection, text-to-speech, and speech-to-text capabilities.    
 - **Tech Stack:** React Native, Expo, TypeScript, Redux Toolkit, Nativewind, Supabase, Google Cloud, Cloud Translation API, Node.js, Google and Apple Authentication, Animated API, and more.
 - **Demo Video:** [GlobaLingo Demo Video](https://drive.google.com/file/d/10valVBsjm2mWa6eO68z3FQxD_AAOcRes/view?usp=drive_link)
+- **App Store URL:** [GlobaLingo iOS](https://apps.apple.com/us/app/globalingo-translator/id6742489157)
 
 ### 📌 Music Player Application  
 A full-featured music player app with Firebase backend.    
