@@ -52,7 +52,7 @@ A classic Connect-4 game with AI-powered gameplay.
 
 ### 📌 GeoTag  
 I was hired by a client on Upwork for this project. GeoTag is a React Native app that integrates the [GeoImgr](https://www.geoimgr.com/) website within a web view for Android & iOS. I implemented photo handling, metadata extraction (EXIF & GPS), event communication, and Google authentication using Firebase. Additionally, I set up a GitHub automation pipeline for APK & IPA generation and store submission.    
-- **Tech Stack:** React Native, Redux toolkit, React hooks, Expo router, responsive design, hybrid, custom fonts, custom app icon and animated splash screen, secure encrypted storage, TypeScript, Animated API, Minimax algorithm with alpha-beta pruning for AI implementation, animated countdown timer, Expo AV, and more.
+- **Tech Stack:** React Native, Redux toolkit, React hooks, Expo router, responsive design, hybrid, custom fonts, custom app icon and animated splash screen, secure encrypted storage, TypeScript, API Integrations, React Native Web-View, GitHub Actions, and more.
 
 ### 📌 GlobaLingo  
 GlobaLingo is a React Native language translator app featuring instant translations, auto language detection, text-to-speech, and speech-to-text capabilities.    
